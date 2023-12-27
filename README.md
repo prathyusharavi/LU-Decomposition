@@ -54,8 +54,9 @@ print(X)
 
 ## Output:
 
-![image](https://github.com/prathyusharavi/LU-Decomposition/assets/147474424/52219124-68dd-46b0-9efc-f71b076bfc4e)
-![image](https://github.com/prathyusharavi/LU-Decomposition/assets/147474424/390a6f60-33df-4025-8dd0-2ddc933ada8c)
+![image](https://github.com/prathyusharavi/LU-Decomposition/assets/147474424/8b2da84e-edb8-4a09-a681-e20b3209cc39)
+![image](https://github.com/prathyusharavi/LU-Decomposition/assets/147474424/5ad55f94-d79e-4491-a793-b71259c43327)
+
 
 
 
